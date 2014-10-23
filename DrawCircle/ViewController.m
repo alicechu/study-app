@@ -24,6 +24,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    //test github commit
     if (_labelTimeString==NULL){
         self.labelTime.text=@"45:00";//default value
     }
